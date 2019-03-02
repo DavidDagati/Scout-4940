@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         adapter.addFragment(new Postmatch(), "Post-Match");
         adapter.addFragment(new Chart(), "Data");
         viewPager.setAdapter(adapter);
+        //Hello world
     }
 
 }
