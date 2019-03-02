@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Scout-4940</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string-array name="allTeams">
+        <item>771</item>
+        <item>772</item>
+        <item>773</item>
+        <item>781</item>
+        <item>865</item>
+        <item>1114</item>
+        <item>1285</item>
+        <item>1360</item>
+        <item>2198</item>
+        <item>2609</item>
+        <item>2634</item>
+        <item>2702</item>
+        <item>2852</item>
+        <item>2935</item>
+        <item>3739</item>
+        <item>3756</item>
+        <item>4039</item>
+        <item>4525</item>
+        <item>4595</item>
+        <item>4617</item>
+        <item>4688</item>
+        <item>4814</item>
+        <item>4903</item>
+        <item>4951</item>
+        <item>4920</item>
+        <item>4932</item>
+        <item>4936</item>
+        <item>4938</item>
+        <item>4976</item>
+        <item>4992</item>
+        <item>5024</item>
+        <item>5288</item>
+        <item>5408</item>
+        <item>5409</item>
+        <item>5426</item>
+        <item>5483</item>
+        <item>5596</item>
+        <item>5689</item>
+        <item>5699</item>
+        <item>5821</item>
+        <item>5834</item>
+        <item>5870</item>
+        <item>5885</item>
+        <item>5911</item>
+        <item>6052</item>
+        <item>6110</item>
+        <item>6130</item>
+        <item>6162</item>
+        <item>6202</item>
+        <item>6331</item>
+        <item>6339</item>
+        <item>6378</item>
+        <item>6481</item>
+        <item>6537</item>
+        <item>6544</item>
+        <item>6725</item>
+        <item>6856</item>
+        <item>6875</item>
+        <item>6881</item>
+        <item>6992</item>
+        <item>7058</item>
+        <item>7136</item>
+        <item>7475</item>
+        <item>7480</item>
+        <item>7659</item>
+        <item>7722</item>
+        <item>7757</item>
+        <item>7800</item>
+    </string-array>
+</resources>
